@@ -21,6 +21,6 @@ my stack:
 - Back (go): [Golang](https://golang.org/) / [Gin](https://github.com/gin-gonic/gin) / [GORM](https://gorm.io/index.html) / [Gorilla mux](https://github.com/gorilla/mux) / [Kafka](https://kafka.apache.org/)
 - Back (node): [NodeJs](https://nodejs.org/en/) / [Express](https://expressjs.com/) / [Nest](https://nestjs.com/) / [TypeScript](https://www.typescriptlang.org/) / [TypeORM](https://typeorm.io/)
 - DataBases: [PostgreSQL](https://www.postgresql.org/) / [MongoDB](https://www.mongodb.com/) / [MySQL](https://www.mysql.com/)
-- DevOps: [Nginx](https://nginx.org/) / [Brotli](https://github.com/google/brotli) / [Github Actions (CI/CD)](https://docs.github.com/en/actions) / [Docker](https://www.docker.com/) / Bash
+- DevOps: [Nginx](https://nginx.org/) / [Brotli](https://github.com/google/brotli) / [Github Actions (CI/CD)](https://docs.github.com/en/actions) / [Docker](https://www.docker.com/) / [k8s](https://kubernetes.io/) / Bash
 - Testing: [Jest](https://jestjs.io/) / [Enzyme](https://enzymejs.github.io/enzyme/)
 - Design system: [Antd](https://ant.design/) / [react-bootstrap](https://react-bootstrap.github.io/)
