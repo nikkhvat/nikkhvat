@@ -1,8 +1,9 @@
 <h2 align="center">Hi there, I'm Nikita Khvatov 👋</h2>
 
 <p align="center">
-  <a href="https://nik19ta.github.io/">Website</a> - 
+  <a href="https://nik19ta.pro/">Website</a> - 
   <a href="mailto:nik19ta.me@gmail.com">Gmail</a> -
+  <a href="https://www.linkedin.com/in/nikita-khvatov-b9a780245/">linkedin</a> -
   <a href="https://t.me/nik19ta">Telegram</a>
 </p>
 
