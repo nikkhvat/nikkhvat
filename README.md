@@ -16,12 +16,11 @@
 <br />
 
 my stack:
-- Front-end (react): [ReactJs](https://reactjs.org/) / [Redux](https://redux.js.org/) / [Redux Toolkit](https://redux-toolkit.js.org/) / [ReactRouter](https://reactrouter.com/) / [NextJs](https://nextjs.org/) / [React Native](https://reactnative.dev/) / [Apollo](https://www.apollographql.com/)
+- Front-end (react): [ReactJs](https://reactjs.org/) / [Redux](https://redux.js.org/) / [Redux Toolkit](https://redux-toolkit.js.org/) / [ReactRouter](https://reactrouter.com/) / [NextJs](https://nextjs.org/) / [React Native](https://reactnative.dev/) / [Apollo](https://www.apollographql.com/) / [Jest](https://jestjs.io/) / [Puppeteer](https://pptr.dev/) / [Enzyme](https://enzymejs.github.io/enzyme/)
 - Front-end (vue): [Vue](https://vuejs.org/) / [Vuex](https://vuex.vuejs.org/) / [VueRouter](https://router.vuejs.org/) / [Nuxt](https://nuxtjs.org/)
 - Styles: [SCSS](https://sass-scss.ru/) / [SASS](https://sass-scss.ru/) / [PostCSS](https://postcss.org/)
-- Back (go): [Golang](https://golang.org/) / [Gin](https://github.com/gin-gonic/gin) / [GORM](https://gorm.io/index.html) / [Gorilla mux](https://github.com/gorilla/mux) / [Kafka](https://kafka.apache.org/)
+- Back (go): [Golang](https://golang.org/) / [Gin](https://github.com/gin-gonic/gin) / [GORM](https://gorm.io/index.html) / [Gorilla mux](https://github.com/gorilla/mux) / [Kafka](https://kafka.apache.org/) / [Gonkey](https://github.com/lamoda/gonkey)
 - Back (node): [NodeJs](https://nodejs.org/en/) / [Express](https://expressjs.com/) / [Nest](https://nestjs.com/) / [TypeScript](https://www.typescriptlang.org/) / [TypeORM](https://typeorm.io/)
 - DataBases: [PostgreSQL](https://www.postgresql.org/) / [MongoDB](https://www.mongodb.com/) / [MySQL](https://www.mysql.com/)
 - DevOps: [Nginx](https://nginx.org/) / [Brotli](https://github.com/google/brotli) / [Github Actions (CI/CD)](https://docs.github.com/en/actions) / [Docker](https://www.docker.com/) / [k8s](https://kubernetes.io/) / Bash
-- Testing: [Jest](https://jestjs.io/) / [Enzyme](https://enzymejs.github.io/enzyme/)
 - Design system: [Antd](https://ant.design/) / [react-bootstrap](https://react-bootstrap.github.io/)
